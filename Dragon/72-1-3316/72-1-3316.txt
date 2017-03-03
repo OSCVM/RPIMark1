@@ -1,0 +1,6 @@
+﻿"Symbol";"Value";"Unit";
+"MATERIAL";"light alloy ASG";"";
+"DESIGN";"Aluminium profile continuous hinge - 50mm open";"";
+"REFERENCE";"72-1-3316";"";
+"SUPPLIER";"PINET";"";
+"MASS";"1200";"g";
